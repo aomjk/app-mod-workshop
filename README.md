@@ -1,4 +1,4 @@
-# Workshop: Application Modernization in GCP!
+# Workshop: Application Modernization in GCP
 
 Codebase for the workshop [https://codelabs.developers.google.com/codelabs/app-mod-workshop#0]("Application Modernization in GCP").
 
